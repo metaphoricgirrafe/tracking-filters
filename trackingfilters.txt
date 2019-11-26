@@ -6,7 +6,7 @@
 ||spclient.wg.spotify.com/metrics-backend/
 ||spclient.wg.spotify.com/melody/v1/logging
 ||spclient.wg.spotify.com/gabo-receiver-service/*$xmlhttprequest
-||unsplash.com##a[href^="https://srv.buysellads.com/"]
+unsplash.com##a[href^="https://srv.buysellads.com/"]
 ||lip11t.com
 ||echo360.org.au/lesson/*/confused/*$xmlhttprequest
 ||echo360.org.au/video/*/viewed$xmlhttprequest
